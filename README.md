@@ -8,4 +8,6 @@
 ### Authorization server: accounts.google.com
 ## Google OAuth
 ## Passport
-## Cookie Based Authentication
+## Cookie or Session Based Authentication
+### Serialization
+### Deserialization
